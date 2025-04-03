@@ -1,0 +1,9 @@
+{
+	"name": "adflearninggit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b3e97b94-3660-4d5b-8cfe-10a43a328b32",
+		"tenantId": "fa55f6f2-da4e-4a8a-9793-a0d6aeb4b012"
+	}
+}
