@@ -1,0 +1,20 @@
+{
+	"name": "outputdatasetlearning1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "abcd.txt",
+				"folderPath": "output",
+				"container": "adfdemoswathi"
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

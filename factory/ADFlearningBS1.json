@@ -1,0 +1,9 @@
+{
+	"name": "ADFlearningBS1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bc91be99-4185-466c-98f7-d351ce6b8a5e",
+		"tenantId": "fa55f6f2-da4e-4a8a-9793-a0d6aeb4b012"
+	}
+}
